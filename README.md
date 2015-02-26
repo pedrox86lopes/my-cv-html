@@ -1,2 +1,2 @@
 # my-cv-html
-My Curricullum Vittae in HTML and CSS ;)
+My Curriculum Vitae in HTML and CSS ;)
